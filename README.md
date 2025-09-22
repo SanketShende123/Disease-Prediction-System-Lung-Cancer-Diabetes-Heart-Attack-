@@ -1,2 +1,25 @@
-# Disease-Prediction-System-Lung-Cancer-Diabetes-Heart-Attack-
-A machine learning system to predict the risk of lung cancer, diabetes, and heart attack based on medical data like age, lifestyle, and diagnostic results. Using algorithms like logistic regression and decision trees, it helps in early detection and prevention.  Technologies: Python, Scikit-learn, Pandas, Matplotlib
+# Disease Prediction System (Lung Cancer, Diabetes, Heart Attack)
+
+A machine learning-based system designed to predict the likelihood of **lung cancer**, **diabetes**, and **heart attack** using various health parameters and lifestyle factors. The system uses common ML algorithms to support early detection and risk analysis.
+
+## 🔍 Features
+
+- **Lung Cancer Prediction** – Based on age, smoking habits, family history, etc.
+- **Diabetes Prediction** – Uses factors like BMI, glucose levels, insulin, and age.
+- **Heart Attack Prediction** – Considers cholesterol, blood pressure, and heart rate.
+
+## 🛠️ Technologies Used
+
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib & Seaborn
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/disease-prediction-system.git
+cd disease-prediction-system
+pip install -r requirements.txt
+
