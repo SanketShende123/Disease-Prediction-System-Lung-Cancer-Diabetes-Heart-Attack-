@@ -19,7 +19,7 @@ A machine learning-based system designed to predict the likelihood of **lung can
 ## ⚙️ Installation
 
 ```bash
-git clone [https://github.com/SanketShende123/Disease-Prediction-System-Lung-Cancer-Diabetes-Heart-Attack-]
+git clone https://github.com/SanketShende123/Disease-Prediction-System-Lung-Cancer-Diabetes-Heart-Attack-
 cd disease-prediction-system
 pip install -r requirements.txt
 
